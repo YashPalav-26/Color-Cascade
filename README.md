@@ -33,3 +33,8 @@ ColorCascad is a powerful and intuitive tool designed to help you create stunnin
 - Color Button Click Handlers**: Updates the gradient colors when the color buttons are clicked.
 - Directional Arrow Click Handlers**: Changes the gradient direction based on the clicked arrow button.
 - Copy Code Functionality**: Copies the gradient CSS code to the clipboard for easy use.
+
+## Live Demo 🚀
+
+Check out the live demo of the **ColorCascade** app here: (https://colorcascade.vercel.app)
+
