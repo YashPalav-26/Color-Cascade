@@ -133,6 +133,9 @@ body {
     width: 100%;
     padding: 1rem;
   }
+  .direction-div {
+    width: 100%;
+  }
 }
 
 @media (max-width: 480px) {
@@ -145,6 +148,10 @@ body {
   .code-container {
     width: 100%;
     padding: 0.5rem;
+  }
+
+  .direction-div {
+    width: 100%;
   }
 }
 
