@@ -36,5 +36,5 @@ ColorCascad is a powerful and intuitive tool designed to help you create stunnin
 
 ## Live Demo 🚀
 
-Check out the live demo of the **ColorCascade** app here: (https://colorcascade.vercel.app)
+Check out the live demo of the **ColorCascade** app here: (https://yash-colorcascade.vercel.app)
 
